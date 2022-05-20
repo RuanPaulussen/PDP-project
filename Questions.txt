@@ -1,0 +1,5 @@
+Na,Natrium,1
+C,koolstof,1
+P,fosfor,1
+Ag,zilver,2
+Mg,magnesium,1
